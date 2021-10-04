@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+
+}
+
+.pic {
+  width: 100%;
+  
+}
+
+.cont {
+  position: relative;
+  text-align: center;
+}
+
+.card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.noaccess {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.music {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+ 
+}
+
+.followspotify {
+  position: absolute;
+  top: 73%;
+  left: 53%;
+  transform: translate(-50%, -50%);
+  
+ 
+}
+
+.bio {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+.videos {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+.carousel {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+.footer {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+.socials:hover {
+  opacity: 70%;
+}
+
+
+.add {
+  position: absolute;
+  top: 28%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.contactform{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  color: white;
+}
+
+.h1 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: "Roboto";
+}
